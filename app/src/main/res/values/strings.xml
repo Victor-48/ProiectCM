@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Proiect CM</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="favorites">Favorites</string>
+    <string name="settings">Settings</string>
+    <string name="settings_title">General</string>
+    <string name="nav_open">Open navigation drawer</string>
+    <string name="nav_close">Close navigation drawer</string>
+    <string name="theme_title">Theme</string>
+    <string name="theme_system">System Default</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="theme">Theme</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="follow_system">Follow System</string>
+    <string name="about">About</string>
+    <string name="about_this_app">About this App</string>
+    <string name="proiect_cm">Proiect CM</string>
+    <string name="version_1_0">Version 1.0</string>
+</resources>
